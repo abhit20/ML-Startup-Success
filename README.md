@@ -27,7 +27,7 @@ In this study, we investigate a heterogeneous set of startup ven- tures (differe
 @inproceedings{thirupathi2021mlstartupsuccess,
       title={A Machine Learning Approach to Detect Early Signs of Startup Success}, 
       author={Abhinav Nadh Thirupathi and Tuka Alhanai and Mohammad M. Ghassemi},
-      booktitle={ICAIF 2021: Proceedings of the Second ACM International Conference on AI in Finance},
+      booktitle={2nd ACM International Conference on AI in Finance (ICAIF'21)},
       year={2021}
 }
 ```
